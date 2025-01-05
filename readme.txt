@@ -3,7 +3,7 @@ Start the app by running the following command in your terminal:
 python app.py
 
 Homepage (index.html):
-Users input the required data for prediction (e.g., age, ratings, distance, speed).
+Users input the required data for prediction (age, ratings, distance, speed).
 The form submits data to the /predict endpoint via a POST request.
 
 Backend (app.py):
