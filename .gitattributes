@@ -1,2 +1,2 @@
 # gitattributes
-*.css linguist-detectable
+static/* linguist-vendored
