@@ -1,4 +1,4 @@
-How to run the application
+### How to run the application
 Start the app by running the following command in your terminal:
 python app.py
 
